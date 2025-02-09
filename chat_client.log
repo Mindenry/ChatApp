@@ -1,0 +1,3 @@
+2025-02-09 17:27:51,758 - CRITICAL - Application failed to start: 'AdvancedChatApp' object has no attribute 'create_left_sidebar'
+2025-02-09 17:28:09,582 - CRITICAL - Application failed to start: 'AdvancedChatApp' object has no attribute 'create_left_sidebar'
+2025-02-09 17:28:20,424 - CRITICAL - Application failed to start: 'AdvancedChatApp' object has no attribute 'create_left_sidebar'
