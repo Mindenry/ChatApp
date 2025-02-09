@@ -1,0 +1,7 @@
+tkinter
+websockets
+Pillow
+emoji
+ttkthemes
+fastapi
+uvicorn
